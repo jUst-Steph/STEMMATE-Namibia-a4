@@ -1,0 +1,10 @@
+{
+  "name": "STEMMate Namibia",
+  "short_name": "STEMMate",
+  "description": "Offline-first STEM activity and session planning prototype.",
+  "start_url": "./#/",
+  "display": "standalone",
+  "background_color": "#f6f8f9",
+  "theme_color": "#0f766e",
+  "lang": "en"
+}
